@@ -1,0 +1,473 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\ddedd6aab92ecdb96e8da9ea860f9a84\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\4b0f873ea0705dcc472770dc464df483\AndroidManifest.xml:2:1-11:12
+MERGED from [pub.devrel:easypermissions:0.1.9] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\0c86e23113ed67731afe262da0f8e4f1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\bed704e75a9b5fdcb45580d13b1787bb\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\c580c2c4397d7b492d772c76b0cd50af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a088f2e353365ff47c1b63d6b7a14259\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\886e9761fd99232fb1c4b5b5dca74f87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\84b7d08524028b1f4dfac4461d9ac824\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\9cb37783ecc6775bf8f1799f1d726bca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6c2d287bbe24de15df9a5c9398dd9c8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6b9de9979a7e4e7e12c0f10e5a749993\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:9.0.0-rc2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\22ce854f4fff703b6bbd02cd601ae5f3\AndroidManifest.xml:2:1-7:12
+MERGED from [cn.jzvd:jiaozivideoplayer:6.4.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fa95752d1cc2aca482f1980eeb0faf51\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f3ceaf2962a0bfe329ff8b85f91e35d6\AndroidManifest.xml:17:1-24:12
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fe2bdde1d71fa2bff62850f4b19c9d46\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\2428d0335b97e87de66711efb9881c79\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\5bc2e80a74d4c09b2bf2a863fbe118da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\54bb53de743739bc2cc726eceaf3fa6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\3b0f373604350c7b0c58e30a5cf0a710\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\cc6910536f67e1f983b7751fbb8afb9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a5e0f0fc7eb79e3be38d1bc1d563ca38\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\18170d0a8f41064d0cd90d04cba579e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6e25dbbf32dd7d8f3bd3d875e40c2bd3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\31a643f0412fcc3aad2f672d66ca8445\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\5fdf8c7e62c489d4693e1f2d12b314e4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\531cebb7fa26ab929dcf0df49fa40ced\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\e0447f71390d5ba80a75382384c02011\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\c533a587aa9c06e214fe5f947aa24a23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\3bc098bfb35f93d228948fb18fe31e41\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\04f5f878eaba0457bfe039ef291869ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a50ebdaf26c1571e08eb9a090709e7e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\7ab287315407c6fa684d90e46bb2a5db\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\717f0203f26556d7e89cea7444f50149\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f804896990a928dfe9b825376ccda4ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d7c27489567359831c17f4ff84f1cfd4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\578661ea3654781f5a8760865e89eb1e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\cb392f6b1b14b6b3135e9be3d9ad5d61\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d73a9703b48a34af85a4f351f2b9b96e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f097ac4da0b67b900ba350bae55306df\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\52a0c198c73bf817d1b6746b3a10fde2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\17cfb00965c9e277740e50145ae1123a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d22dccf8e1c50557102937aa93e441c2\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a30c2e39cb9f8581224c96958df427b3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\db82fc2e405c81f1a8bfe5f18175f10e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\50e7a10713de20efcabfa22281f506e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\631246a99fee09b95f97f6721b998b24\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\8e950216fdef32014187eabcf76026ee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d3302a21dea00731afac56a5b9dce1a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fd140bbf0faf76b8d8186a49b8d1fea8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\39b173f40eb7fcc49c0e45b0d2073d89\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a9d4e98d72f090f8e1ccd7fd861d43a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\b35b6c4fb11644f3dcb7dff7c53b37ab\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+	package
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:1-137:12
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [cn.jzvd:jiaozivideoplayer:6.4.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fa95752d1cc2aca482f1980eeb0faf51\AndroidManifest.xml:11:5-79
+MERGED from [cn.jzvd:jiaozivideoplayer:6.4.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fa95752d1cc2aca482f1980eeb0faf51\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d22dccf8e1c50557102937aa93e441c2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d22dccf8e1c50557102937aa93e441c2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:10:5-83
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:10:22-80
+application
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:12:5-135:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\ddedd6aab92ecdb96e8da9ea860f9a84\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\ddedd6aab92ecdb96e8da9ea860f9a84\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\4b0f873ea0705dcc472770dc464df483\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\4b0f873ea0705dcc472770dc464df483\AndroidManifest.xml:9:5-20
+MERGED from [pub.devrel:easypermissions:0.1.9] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\0c86e23113ed67731afe262da0f8e4f1\AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.1.9] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\0c86e23113ed67731afe262da0f8e4f1\AndroidManifest.xml:12:5-20
+MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\84b7d08524028b1f4dfac4461d9ac824\AndroidManifest.xml:9:5-20
+MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\84b7d08524028b1f4dfac4461d9ac824\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\2428d0335b97e87de66711efb9881c79\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\2428d0335b97e87de66711efb9881c79\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\578661ea3654781f5a8760865e89eb1e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\578661ea3654781f5a8760865e89eb1e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\cb392f6b1b14b6b3135e9be3d9ad5d61\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\cb392f6b1b14b6b3135e9be3d9ad5d61\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a30c2e39cb9f8581224c96958df427b3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a30c2e39cb9f8581224c96958df427b3\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\578661ea3654781f5a8760865e89eb1e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:17:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:15:9-43
+	android:roundIcon
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:20:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:13:9-45
+activity#anime.project.dilidili.main.LoginActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:22:9-65
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:22:19-53
+activity#anime.project.dilidili.main.start.StartActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:23:9-38:20
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:26:13-45
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:25:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:24:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#android.app.shortcuts
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:35:13-37:53
+	android:resource
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:37:17-50
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:36:17-53
+activity#anime.project.dilidili.main.home.HomeActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:39:9-43:59
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:42:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:41:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:43:13-56
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:40:13-51
+activity#anime.project.dilidili.main.animelist.AnimeListActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:44:9-48:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:47:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:46:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:48:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:45:13-61
+activity#anime.project.dilidili.main.desc.DescActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:49:9-53:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:52:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:51:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:53:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:50:13-51
+activity#anime.project.dilidili.main.player.PlayerActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:54:9-60:63
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:58:13-56
+	android:excludeFromRecents
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:57:13-46
+	android:supportsPictureInPicture
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:59:13-52
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:56:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:55:13-55
+activity#anime.project.dilidili.main.tag.TagActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:61:9-65:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:64:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:63:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:65:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:62:13-49
+activity#anime.project.dilidili.main.favorite.FavoriteActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:66:9-70:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:69:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:68:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:70:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:67:13-59
+activity#anime.project.dilidili.main.recommend.RecommendActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:71:9-75:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:74:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:73:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:75:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:72:13-61
+activity#anime.project.dilidili.main.setting.SettingActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:76:9-80:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:79:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:78:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:80:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:77:13-57
+activity#anime.project.dilidili.main.setting.user.ApiActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:81:9-85:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:84:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:83:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:85:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:82:13-58
+activity#anime.project.dilidili.main.about.AboutActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:86:9-90:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:89:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:88:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:90:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:87:13-53
+activity#anime.project.dilidili.main.about.OpenSourceActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:91:9-95:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:94:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:93:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:95:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:92:13-58
+activity#anime.project.dilidili.main.search.SearchActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:96:9-100:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:99:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:98:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:100:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:97:13-55
+activity#anime.project.dilidili.main.search.SearchV2Activity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:101:9-105:55
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:104:13-49
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:103:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:105:13-52
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:102:13-57
+activity#anime.project.dilidili.main.webview.WebActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:106:9-111:47
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:110:13-49
+	android:hardwareAccelerated
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:109:13-47
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:108:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:111:13-44
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:107:13-53
+activity#anime.project.dilidili.main.webview.DefaultWebActivity
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:112:9-117:47
+	android:screenOrientation
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:116:13-49
+	android:hardwareAccelerated
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:115:13-47
+	android:configChanges
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:114:13-106
+	android:theme
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:117:13-44
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:113:13-60
+service#anime.project.dilidili.services.ClearVideoCacheService
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:121:9-124:39
+	android:enabled
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:123:13-35
+	android:exported
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:124:13-36
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:122:13-60
+provider#androidx.core.content.FileProvider
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:126:9-134:20
+	android:grantUriPermissions
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:130:13-47
+	android:authorities
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:128:13-70
+	android:exported
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:129:13-37
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:127:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:131:13-133:53
+	android:resource
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:133:17-50
+	android:name
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml:132:17-67
+uses-sdk
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\ddedd6aab92ecdb96e8da9ea860f9a84\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\ddedd6aab92ecdb96e8da9ea860f9a84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\4b0f873ea0705dcc472770dc464df483\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\4b0f873ea0705dcc472770dc464df483\AndroidManifest.xml:5:5-7:41
+MERGED from [pub.devrel:easypermissions:0.1.9] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\0c86e23113ed67731afe262da0f8e4f1\AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.1.9] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\0c86e23113ed67731afe262da0f8e4f1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\bed704e75a9b5fdcb45580d13b1787bb\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\bed704e75a9b5fdcb45580d13b1787bb\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\c580c2c4397d7b492d772c76b0cd50af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\c580c2c4397d7b492d772c76b0cd50af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a088f2e353365ff47c1b63d6b7a14259\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a088f2e353365ff47c1b63d6b7a14259\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\886e9761fd99232fb1c4b5b5dca74f87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\886e9761fd99232fb1c4b5b5dca74f87\AndroidManifest.xml:20:5-44
+MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\84b7d08524028b1f4dfac4461d9ac824\AndroidManifest.xml:7:5-44
+MERGED from [com.r0adkll:slidableactivity:2.0.5] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\84b7d08524028b1f4dfac4461d9ac824\AndroidManifest.xml:7:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\9cb37783ecc6775bf8f1799f1d726bca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\9cb37783ecc6775bf8f1799f1d726bca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6c2d287bbe24de15df9a5c9398dd9c8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6c2d287bbe24de15df9a5c9398dd9c8f\AndroidManifest.xml:20:5-44
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6b9de9979a7e4e7e12c0f10e5a749993\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6b9de9979a7e4e7e12c0f10e5a749993\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:9.0.0-rc2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\22ce854f4fff703b6bbd02cd601ae5f3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\22ce854f4fff703b6bbd02cd601ae5f3\AndroidManifest.xml:5:5-44
+MERGED from [cn.jzvd:jiaozivideoplayer:6.4.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fa95752d1cc2aca482f1980eeb0faf51\AndroidManifest.xml:7:5-9:41
+MERGED from [cn.jzvd:jiaozivideoplayer:6.4.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fa95752d1cc2aca482f1980eeb0faf51\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f3ceaf2962a0bfe329ff8b85f91e35d6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f3ceaf2962a0bfe329ff8b85f91e35d6\AndroidManifest.xml:20:5-22:41
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fe2bdde1d71fa2bff62850f4b19c9d46\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:blurry:2.1.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fe2bdde1d71fa2bff62850f4b19c9d46\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\2428d0335b97e87de66711efb9881c79\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\2428d0335b97e87de66711efb9881c79\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\5bc2e80a74d4c09b2bf2a863fbe118da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\5bc2e80a74d4c09b2bf2a863fbe118da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\54bb53de743739bc2cc726eceaf3fa6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\54bb53de743739bc2cc726eceaf3fa6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\3b0f373604350c7b0c58e30a5cf0a710\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\3b0f373604350c7b0c58e30a5cf0a710\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\cc6910536f67e1f983b7751fbb8afb9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\cc6910536f67e1f983b7751fbb8afb9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a5e0f0fc7eb79e3be38d1bc1d563ca38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a5e0f0fc7eb79e3be38d1bc1d563ca38\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\18170d0a8f41064d0cd90d04cba579e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\18170d0a8f41064d0cd90d04cba579e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6e25dbbf32dd7d8f3bd3d875e40c2bd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\6e25dbbf32dd7d8f3bd3d875e40c2bd3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\31a643f0412fcc3aad2f672d66ca8445\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\31a643f0412fcc3aad2f672d66ca8445\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\5fdf8c7e62c489d4693e1f2d12b314e4\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\5fdf8c7e62c489d4693e1f2d12b314e4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\531cebb7fa26ab929dcf0df49fa40ced\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\531cebb7fa26ab929dcf0df49fa40ced\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\e0447f71390d5ba80a75382384c02011\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\e0447f71390d5ba80a75382384c02011\AndroidManifest.xml:5:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\c533a587aa9c06e214fe5f947aa24a23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\c533a587aa9c06e214fe5f947aa24a23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\3bc098bfb35f93d228948fb18fe31e41\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\3bc098bfb35f93d228948fb18fe31e41\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\04f5f878eaba0457bfe039ef291869ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\04f5f878eaba0457bfe039ef291869ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a50ebdaf26c1571e08eb9a090709e7e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a50ebdaf26c1571e08eb9a090709e7e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\7ab287315407c6fa684d90e46bb2a5db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\7ab287315407c6fa684d90e46bb2a5db\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\717f0203f26556d7e89cea7444f50149\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\717f0203f26556d7e89cea7444f50149\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f804896990a928dfe9b825376ccda4ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f804896990a928dfe9b825376ccda4ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d7c27489567359831c17f4ff84f1cfd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d7c27489567359831c17f4ff84f1cfd4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\578661ea3654781f5a8760865e89eb1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\578661ea3654781f5a8760865e89eb1e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\cb392f6b1b14b6b3135e9be3d9ad5d61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\cb392f6b1b14b6b3135e9be3d9ad5d61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d73a9703b48a34af85a4f351f2b9b96e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d73a9703b48a34af85a4f351f2b9b96e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f097ac4da0b67b900ba350bae55306df\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\f097ac4da0b67b900ba350bae55306df\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\52a0c198c73bf817d1b6746b3a10fde2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\52a0c198c73bf817d1b6746b3a10fde2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\17cfb00965c9e277740e50145ae1123a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\17cfb00965c9e277740e50145ae1123a\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d22dccf8e1c50557102937aa93e441c2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.2] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d22dccf8e1c50557102937aa93e441c2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a30c2e39cb9f8581224c96958df427b3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a30c2e39cb9f8581224c96958df427b3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\db82fc2e405c81f1a8bfe5f18175f10e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\db82fc2e405c81f1a8bfe5f18175f10e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\50e7a10713de20efcabfa22281f506e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\50e7a10713de20efcabfa22281f506e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\631246a99fee09b95f97f6721b998b24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\631246a99fee09b95f97f6721b998b24\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\8e950216fdef32014187eabcf76026ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\8e950216fdef32014187eabcf76026ee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d3302a21dea00731afac56a5b9dce1a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\d3302a21dea00731afac56a5b9dce1a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fd140bbf0faf76b8d8186a49b8d1fea8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\fd140bbf0faf76b8d8186a49b8d1fea8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\39b173f40eb7fcc49c0e45b0d2073d89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\39b173f40eb7fcc49c0e45b0d2073d89\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a9d4e98d72f090f8e1ccd7fd861d43a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\a9d4e98d72f090f8e1ccd7fd861d43a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\b35b6c4fb11644f3dcb7dff7c53b37ab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tuyuanpeng\.gradle\caches\transforms-2\files-2.1\b35b6c4fb11644f3dcb7dff7c53b37ab\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tuyuanpeng\Desktop\Dilidili\app\src\main\AndroidManifest.xml
